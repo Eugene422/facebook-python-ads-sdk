@@ -50,7 +50,7 @@ class AdRuleTrigger(
         not_equal = 'NOT_EQUAL'
         in_range = 'IN_RANGE'
         not_in_range = 'NOT_IN_RANGE'
-        in = 'IN'
+        isin = 'IN'
         not_in = 'NOT_IN'
         contain = 'CONTAIN'
         not_contain = 'NOT_CONTAIN'
